@@ -10,8 +10,7 @@
 		"publish:dev": "npm publish --access public --tag dev",
 		"prepare": "husky install .github/husky",
 		"format": "prettier --write \"src/**/*.ts\"",
-		"lint": "eslint --ignore-path .gitignore src/**/*.ts",
-		"changelog": "git cliff --prepend ./CHANGELOG.md -l --current -c ./cliff.toml -r ."
+		"lint": "eslint --ignore-path .gitignore src/**/*.ts"
 	},
 	"lint-staged": {
 		"*.ts": "npm run format"
@@ -35,9 +34,7 @@
 	"contributors": [
 		"Alexey Filippov <socket.someone@gmail.com>"
 	],
-	"dependencies": {
-		"path-to-regexp": "6.2.1"
-	},
+	"dependencies": {},
 	"devDependencies": {
 		"@commitlint/cli": "17.5.1",
 		"@commitlint/config-angular": "17.4.4",
@@ -47,8 +44,6 @@
 		"@types/node": "18.15.11",
 		"@typescript-eslint/eslint-plugin": "5.58.0",
 		"@typescript-eslint/parser": "5.58.0",
-		"discord-api-types": "0.37.38",
-		"discord.js": "14.9.0",
 		"eslint": "8.38.0",
 		"eslint-config-prettier": "8.8.0",
 		"eslint-plugin-prettier": "4.2.1",
@@ -66,7 +61,6 @@
 	"peerDependencies": {
 		"@nestjs/common": "^8.0.0 || ^9.0.0",
 		"@nestjs/core": "^8.0.0 || ^9.0.0",
-		"discord.js": "^14.0.1",
 		"reflect-metadata": "^0.1.13",
 		"rxjs": "^7.2.0"
 	},
