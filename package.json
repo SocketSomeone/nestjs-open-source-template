@@ -36,7 +36,7 @@
 		"release-it": "15.10.1",
 		"rimraf": "4.4.1",
 		"ts-jest": "29.0.5",
-		"typescript": "5.0.2"
+		"typescript": "5.0.4"
 	},
 	"repository": {
 		"type": "git",
