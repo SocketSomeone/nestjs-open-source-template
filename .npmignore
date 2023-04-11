@@ -1,0 +1,12 @@
+.idea
+.vscode
+.github
+src
+**/*.spec.*
+.commitlintrc.json
+.editorconfig
+.eslintrc
+.gitattributes
+tsconfig.json
+yarn.lock
+yarn-error.log
