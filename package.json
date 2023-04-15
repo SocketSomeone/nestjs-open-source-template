@@ -1,7 +1,7 @@
 {
 	"name": "nestjs-open-source-template",
 	"description": "\uD83D\uDCDC My template for creating NestJS Open Source projects",
-	"version": "5.5.4",
+	"version": "1.0.0",
 	"scripts": {
 		"build": "rimraf dist && tsc -p tsconfig.build.json",
 		"prepublish:npm": "npm run build",
