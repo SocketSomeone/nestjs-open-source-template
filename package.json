@@ -41,7 +41,7 @@
 		"@favware/npm-deprecate": "1.0.7",
 		"@nestjs/common": "10.1.0",
 		"@nestjs/core": "10.1.0",
-		"@nestjs/testing": "10.1.0",
+		"@nestjs/testing": "10.3.8",
 		"@types/jest": "29.5.3",
 		"@types/node": "20.12.13",
 		"@typescript-eslint/eslint-plugin": "5.62.0",
