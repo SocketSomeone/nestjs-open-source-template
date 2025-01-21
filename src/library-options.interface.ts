@@ -1,1 +1,1 @@
-export interface LibraryOptions {}
+export type LibraryOptions = unknown
