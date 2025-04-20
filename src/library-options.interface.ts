@@ -1,1 +1,1 @@
-export type LibraryOptions = unknown
+export type LibraryOptions = unknown;
