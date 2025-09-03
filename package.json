@@ -3,7 +3,7 @@
 	"description": "📜 My template for creating NestJS Open Source projects",
 	"version": "1.0.0",
 	"scripts": {
-		"build": "rimraf dist && tsc -p tsconfig.build.json",
+		"build": "rimraf -rf dist && tsc -p tsconfig.build.json",
 		"prepublish:npm": "npm run build",
 		"publish:npm": "release-it",
 		"prepublish:dev": "npm run build",
