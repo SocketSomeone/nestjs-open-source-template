@@ -42,7 +42,9 @@
 	"contributors": [
 		"Alexey Filippov <socket.someone@gmail.com>"
 	],
-	"dependencies": {},
+	"dependencies": {
+		"tslib": "^2.8.1"
+	},
 	"devDependencies": {
 		"@commitlint/cli": "19.8.1",
 		"@commitlint/config-angular": "19.8.1",
