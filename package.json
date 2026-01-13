@@ -56,7 +56,7 @@
 		"@nestjs/testing": "^11.1.11",
 		"@release-it/conventional-changelog": "^10.0.4",
 		"@types/jest": "^30.0.0",
-		"@types/node": "25.0.6",
+		"@types/node": "25.0.7",
 		"eslint": "^9.39.2",
 		"eslint-config-prettier": "10.1.8",
 		"eslint-plugin-import": "^2.32.0",
@@ -72,7 +72,7 @@
 		"ts-jest": "^29.4.6",
 		"ts-node": "10.9.2",
 		"typescript": "5.9.3",
-		"typescript-eslint": "^8.52.0"
+		"typescript-eslint": "^8.53.0"
 	},
 	"peerDependencies": {
 		"@nestjs/common": "^8.0.0 || ^9.0.0 || ^10.0.0 || ^11.0.0",
