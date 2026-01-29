@@ -1,4 +1,6 @@
 name: Publish dev
+permissions:
+  contents: read
 on:
   workflow_dispatch:
   schedule:
