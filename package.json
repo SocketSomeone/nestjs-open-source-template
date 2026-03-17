@@ -50,9 +50,9 @@
 		"@commitlint/config-angular": "20.5.0",
 		"@eslint/eslintrc": "^3.3.5",
 		"@eslint/js": "^10.0.1",
-		"@nestjs/common": "11.1.16",
-		"@nestjs/core": "11.1.16",
-		"@nestjs/testing": "^11.1.16",
+		"@nestjs/common": "11.1.17",
+		"@nestjs/core": "11.1.17",
+		"@nestjs/testing": "^11.1.17",
 		"@release-it/conventional-changelog": "^10.0.6",
 		"@types/jest": "^30.0.0",
 		"@types/node": "25.5.0",
@@ -72,7 +72,7 @@
 		"ts-jest": "^29.4.6",
 		"ts-node": "10.9.2",
 		"typescript": "5.9.3",
-		"typescript-eslint": "^8.57.0"
+		"typescript-eslint": "^8.57.1"
 	},
 	"peerDependencies": {
 		"@nestjs/common": "^8.0.0 || ^9.0.0 || ^10.0.0 || ^11.0.0",
