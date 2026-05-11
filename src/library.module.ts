@@ -1,5 +1,6 @@
-import { ConfigurableModuleClass, MODULE_OPTIONS_TOKEN } from './library.module-definition';
 import { Inject, Logger, Module, OnModuleInit } from '@nestjs/common';
+
+import { ConfigurableModuleClass, MODULE_OPTIONS_TOKEN } from './library.module-definition';
 import { LibraryOptions } from './library-options.interface';
 import { LibraryService } from './library.service';
 
