@@ -4,8 +4,8 @@ This is a template for creating a new open source project in NestJS.
 
 ## Features
 * [TypeScript](https://www.typescriptlang.org/)
-* [Jest](https://jestjs.io/)
-* [ESLint](https://eslint.org/)
+* [Vitest](https://vitest.dev/)
+* [Oxlint](https://oxc.rs/docs/guide/usage/linter.html)
 * [Prettier](https://prettier.io/)
 * GitHub Actions
 * [Dependabot](https://dependabot.com/)
