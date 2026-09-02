@@ -1,6 +1,6 @@
 import { ConfigurableModuleBuilder } from '@nestjs/common';
 
-import { LibraryOptions } from './library-options.interface';
+import { LibraryOptions } from './library-options.interface.js';
 
 export const { ConfigurableModuleClass, MODULE_OPTIONS_TOKEN } =
 	new ConfigurableModuleBuilder<LibraryOptions>()
